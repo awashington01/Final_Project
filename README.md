@@ -4,4 +4,4 @@
 
 ## A Path of a Running Boy
 
-![](details.png)
+![](Path of a Running boy.png)
