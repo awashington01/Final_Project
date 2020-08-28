@@ -6,7 +6,7 @@
 
 ## Lesson 1
 
-(A_Path_of_a_Running_Boy)![](running_boy.png)
+(Lesson_1)![](running_boy.png)
 
 ## Lesson 2
 
