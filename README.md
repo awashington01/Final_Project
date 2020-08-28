@@ -8,4 +8,5 @@
 
 ## A Person's path between Homes
 
-![]()
+![](Path_home.png)
+
