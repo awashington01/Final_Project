@@ -6,10 +6,10 @@
 
 ## Lesson 1
 
-(Lesson_1)![](running_boy.png)
+![](running_boy.png)
 
 ## Lesson 2
 
-(A_Person's_path_between_Homes)![](Path_home.png)
+![](Path_home.png)
 
 ## Challenge Question
