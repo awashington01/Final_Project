@@ -6,9 +6,8 @@
 
 ## A Path of a Running Boy
 
-[Lesson1](running_boy.png)
+(Lesson_1)![](running_boy.png)
 
 ## A Person's path between Homes
 
-![Lesson 2](Path_home.png)
-
+![](Path_home.png)
