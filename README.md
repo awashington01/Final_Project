@@ -4,10 +4,12 @@
 
 # Index to my work
 
-## A Path of a Running Boy
+## Lesson 1
 
-(Lesson_1)![](running_boy.png)
+(A Path of a Running Boy)![](running_boy.png)
 
-## A Person's path between Homes
+## Lesson 2
 
-![](Path_home.png)
+(A Person's path between Homes)![](Path_home.png)
+
+## Challenge Question
