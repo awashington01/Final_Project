@@ -13,3 +13,6 @@
 ![](Path_home.png)
 
 ## Challenge Question
+
+![](challenge_question.png)
+
