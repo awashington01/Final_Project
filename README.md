@@ -4,15 +4,13 @@
 
 # Index to my work
 
-## Lesson 1
+## Getting Started with R Studio
 
-[Running_boy](running_boy.png)
+[Running_boy](running_boy.png) (8/21)
 
-## Lesson 2
+[Path_home](Path_home.png) (8/26)
 
-[Path_home](Path_home.png)
+[Challenge](challenge_question.png) (8/27)
 
-## Challenge Question
-
-[Challenge](challenge_question.png)
+# Data Management Basics
 
