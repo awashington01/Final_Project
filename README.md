@@ -6,13 +6,13 @@
 
 ## Lesson 1
 
-![](running_boy.png)
+[Running_boy](running_boy.png)
 
 ## Lesson 2
 
-![](Path_home.png)
+[Path_home](Path_home.png)
 
 ## Challenge Question
 
-![](challenge_question.png)
+[Challenge](challenge_question.png)
 
