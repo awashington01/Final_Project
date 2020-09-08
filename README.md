@@ -6,7 +6,7 @@
 
 ## Getting Started with R Studio
 
-[Running_boy](running_boy.png) (8/21)
+[Running_boy](Project1) (8/21)
 
 [Path_home](Path_home.png) (8/26)
 
