@@ -14,4 +14,4 @@
 
 # Data Management Basics
 
-[Part 1: Importing, Modifying, Describing, & Plotting](female_pop.png) (population.png) (8/28)
+[Part 1: Importing, Modifying, Describing, & Plotting](Project1.md) (8/28)
