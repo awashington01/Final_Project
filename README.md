@@ -10,4 +10,4 @@
 
 # Data Management Basics
 
-[Part 1: Importing, Modifying, Describing, & Plotting]() (8/28)
+[Part 1: Importing, Modifying, Describing, & Plotting](Part1.md)
