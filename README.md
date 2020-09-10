@@ -6,12 +6,11 @@
 
 ## Getting Started with R Studio
 
-[Running_boy](Project1) (8/21)
+[Project_1](Project1.md) (8/21)
 
-[Path_home](Path_home.png) (8/26)
-
-[Challenge](challenge_question.png) (8/27)
+ (8/26)
+ (8/27)
 
 # Data Management Basics
 
-[Part 1: Importing, Modifying, Describing, & Plotting](Project1.md) (8/28)
+[Part 1: Importing, Modifying, Describing, & Plotting]() (8/28)
