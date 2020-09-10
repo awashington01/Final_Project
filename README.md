@@ -6,10 +6,7 @@
 
 ## Getting Started with R Studio
 
-[Project_1](Project1.md) (8/21)
-
- (8/26)
- (8/27)
+[Project_1](Project1.md)
 
 # Data Management Basics
 
