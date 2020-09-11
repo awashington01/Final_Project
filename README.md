@@ -8,6 +8,10 @@
 
 [Project_1](Project1.md)
 
-# Data Management Basics
+## Data Management Basics
 
 [Part 1: Importing, Modifying, Describing, & Plotting](Part1.md)
+
+## Reflections
+
+[Reflection_1](Reflection1.md)
