@@ -1,6 +1,8 @@
 # Relfection 1
 
-![](Data_science_reflection.pdf)
+![](reflection1.1.png)
+
+![](reflection1.2.png)
 
 # Citations
 
