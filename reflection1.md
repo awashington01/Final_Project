@@ -1,7 +1,6 @@
 # Relfection 1
 
 ![](reflection1.1.png)
-
 ![](reflection1.2.png)
 
 # Citations
