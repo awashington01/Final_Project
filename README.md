@@ -6,7 +6,7 @@
 
 ## Getting Started with R Studio
 
-[Project_1](Project1.md)
+[Project 0](Project0.md)
 
 ## Data Management Basics
 
@@ -14,8 +14,14 @@
 
 ## Reflections
 
-[Reflection_1](reflection1.md)
+[Reflection 1](reflection1.md)
 
-## Project 2:  Data Management Fundamentals
+[Reflection 2](reflection2.md)
 
-[Project_2](Project2.md)
+## Project 1:  Data Management Fundamentals
+
+[Project 1](Project1.md)
+
+## Project 2:
+
+[Project 2](Project2.md)
