@@ -18,6 +18,8 @@
 
 [Reflection 2](reflection2.md)
 
+[Reflection 3](reflection3.md)
+
 ## Project 1:  Data Management Fundamentals
 
 [Project 1](Project1.md)
