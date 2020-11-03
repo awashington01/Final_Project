@@ -22,18 +22,18 @@
 
 [Reflection 4](reflection4.md)
 
-## Project 1:  Data Management Fundamentals
+## Project 1: Data Management Fundamentals
 
 [Project 1](Project1.md)
 
-## Project 2:
+## Project 2: Introduction to Data Science
 
 [Project 2](Project2.md)
 
-## Project 3:
+## Project 3: Projecting, Plotting and Labelling Administrative Subdivisions
 
 [Project 3](Project3.md)
 
-## Project 4:
+## Project 4: Extracting Populations from a Raster and Aggregating to each Unit
 
 [Project 4](Project4.md)
