@@ -2,7 +2,7 @@
 
 ## Part 1: Using the Stock Market to Describe, Analyze and Predict
 
-![]()
+![](correlation_matrix.png)
 
 ## Part 2:  Using tidyquant Analyze Stock Performance
 
