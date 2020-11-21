@@ -39,3 +39,9 @@
 ## Project 4: Extracting Populations from a Raster and Aggregating to each Unit
 
 [Project 4](Project4.md)
+
+## Project 5: Acquiring, Modifying and Describing the Data
+
+[Project 5](Project5.md)
+
+
